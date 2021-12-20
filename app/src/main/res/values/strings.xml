@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PomeloAssignment</string>
+    <string name="get_location">Get Location</string>
+    <string name="pomelo_pickup">POMELO PICKUP</string>
+</resources>
